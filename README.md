@@ -3,9 +3,9 @@
 A GraphRAG implementation for use with research papers. Built using LlamaIndex, Neo4j and a local LLM instance: Qwen2.5. 
 
 ### Contributors
-Agastya Das, Yogesh Thakku Suresh, Luca-Alexandru Zamfira, Ayush Sharma.
+Agastya Das, Ayush Sharma, Luca-Alexandru Zamfira, Yogesh Thakku Suresh.
 
-Created for the final project for Graduate Foundations of AI (CS 5100) at Northeastern University.
+Created for the final project for Graduate Foundations of AI (CS 5100) at Northeastern University - Khoury College of Computer Science.
 
 ### Dataset
 https://www.kaggle.com/datasets/Cornell-University/arxiv/code
